@@ -1,0 +1,8 @@
+pytube
+moviepy
+openai-whisper
+transformers
+torch
+ffmpeg-python
+numpy
+yt-dlp
